@@ -17,9 +17,9 @@ int main(void)
 
 	while (i < 10)
 	{
-		i = 'a'
+		i = 'a';
 		putchar(a);
 	}
-	putchar('\n';)
+	putchar('\n');
 	return (0);
 }
