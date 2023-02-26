@@ -12,12 +12,12 @@
 int main(void)
 {
 	int i;
-
+	char a;
 	i = 0;
 
 	while (i < 10)
 	{
-		i = 'a';
+		i = a;
 		putchar(a);
 	}
 	putchar('\n');
