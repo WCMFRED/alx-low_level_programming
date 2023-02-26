@@ -17,7 +17,7 @@ int main(void)
 
 	while (i < 10)
 	{
-		i = a;
+		a = &i ;
 		putchar(a);
 	}
 	putchar('\n');
