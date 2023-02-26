@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /*
- * main - prints alphabets in reverse
+ * main - Entry point
  *
- * Description - null
+ * Description - prints alphabets in reverse
  *
  * Return: 0 as success
  */
