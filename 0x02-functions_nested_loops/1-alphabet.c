@@ -4,7 +4,7 @@
 /*
  * main - prints alphabets in lowercase
  *
- * Description - prints in lowercase
+ * Description - no return value
  *
  * Return: 0 as success
  */
