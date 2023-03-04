@@ -4,9 +4,8 @@
 /*
  * print_alphabet_x10 - prints alphabets
  *
- * Description - prints 10 times
  *
- * Return: null
+ * Return: Always success
  */
 
 void print_alphabet_x10(void)
